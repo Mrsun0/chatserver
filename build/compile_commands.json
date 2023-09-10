@@ -1,0 +1,52 @@
+[
+{
+  "directory": "D:/github/chatserver/build/src/server",
+  "command": "D:/TDM-GCC/bin/g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles/ChatServer.dir/chatserver.cpp.obj -c D:/github/chatserver/src/server/chatserver.cpp",
+  "file": "D:/github/chatserver/src/server/chatserver.cpp"
+},
+{
+  "directory": "D:/github/chatserver/build/src/server",
+  "command": "D:/TDM-GCC/bin/g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles/ChatServer.dir/chatservice.cpp.obj -c D:/github/chatserver/src/server/chatservice.cpp",
+  "file": "D:/github/chatserver/src/server/chatservice.cpp"
+},
+{
+  "directory": "D:/github/chatserver/build/src/server",
+  "command": "D:/TDM-GCC/bin/g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles/ChatServer.dir/main.cpp.obj -c D:/github/chatserver/src/server/main.cpp",
+  "file": "D:/github/chatserver/src/server/main.cpp"
+},
+{
+  "directory": "D:/github/chatserver/build/src/server",
+  "command": "D:/TDM-GCC/bin/g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles/ChatServer.dir/db/db.cpp.obj -c D:/github/chatserver/src/server/db/db.cpp",
+  "file": "D:/github/chatserver/src/server/db/db.cpp"
+},
+{
+  "directory": "D:/github/chatserver/build/src/server",
+  "command": "D:/TDM-GCC/bin/g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles/ChatServer.dir/model/friendmoel.cpp.obj -c D:/github/chatserver/src/server/model/friendmoel.cpp",
+  "file": "D:/github/chatserver/src/server/model/friendmoel.cpp"
+},
+{
+  "directory": "D:/github/chatserver/build/src/server",
+  "command": "D:/TDM-GCC/bin/g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.obj -c D:/github/chatserver/src/server/model/groupmodel.cpp",
+  "file": "D:/github/chatserver/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "D:/github/chatserver/build/src/server",
+  "command": "D:/TDM-GCC/bin/g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.obj -c D:/github/chatserver/src/server/model/offlinemessagemodel.cpp",
+  "file": "D:/github/chatserver/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "D:/github/chatserver/build/src/server",
+  "command": "D:/TDM-GCC/bin/g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.obj -c D:/github/chatserver/src/server/model/usermodel.cpp",
+  "file": "D:/github/chatserver/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "D:/github/chatserver/build/src/server",
+  "command": "D:/TDM-GCC/bin/g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles/ChatServer.dir/redis/redis.cpp.obj -c D:/github/chatserver/src/server/redis/redis.cpp",
+  "file": "D:/github/chatserver/src/server/redis/redis.cpp"
+},
+{
+  "directory": "D:/github/chatserver/build/src/client",
+  "command": "D:/TDM-GCC/bin/g++.exe  @CMakeFiles/ChatClient.dir/includes_CXX.rsp -g -g -o CMakeFiles/ChatClient.dir/main.cpp.obj -c D:/github/chatserver/src/client/main.cpp",
+  "file": "D:/github/chatserver/src/client/main.cpp"
+}
+]
